@@ -1,0 +1,32 @@
+name: Refresh Data
+
+on:
+  push:
+  schedule:
+    - cron:  '23 */6 * * *'
+
+jobs:
+  refresh-data:
+    name: Refresh Python team emails data
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2  # https://github.com/marketplace/actions/checkout
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2  # https://github.com/marketplace/actions/setup-python
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
+      - name: Refresh Python team emails data
+        run:
+          python3 track_pyteam_email_addresses.py
+      - name: Commit & Push
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email github-actions@users.noreply.github.com
+          git commit -a -m "Update Python team emails data"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
