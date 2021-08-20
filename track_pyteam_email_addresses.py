@@ -49,7 +49,7 @@ fig.set_size_inches(16, 10)
 ax.xaxis.set_major_locator(plt_locator)
 ax.xaxis.set_major_formatter(plt_formatter)
 for k, v in DATA.items():
-    ax.plot(list(map(dateutil.parser.parse, DATA[k].keys())), DATA[k].values(), label=f"{k}", linewidth=LINEWIDTH.get(k, 1.5))
+    ax.plot(list(map(dateutil.parser.parse, DATA[k].keys())), DATA[k].values(), label=f"{k} ({v[max(v.keys())]})", linewidth=LINEWIDTH.get(k, 1.5))
 plt.xticks(rotation=18, ha='right')
 plt.grid()
 fig.tight_layout()
