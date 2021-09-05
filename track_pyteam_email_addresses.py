@@ -68,6 +68,7 @@ for emailaddr, pkgs in data.items():
 with open(DATAFILE, 'w') as f:
     json.dump(DATA, f, indent=2)
 
+# Generate the progress image
 plt_locator = mdates.DayLocator()
 plt_formatter = mdates.AutoDateFormatter(plt_locator)
 fig, ax = plt.subplots()
@@ -83,3 +84,43 @@ plt.grid()
 fig.tight_layout()
 ax.legend(loc='center left')
 plt.savefig('images/python_team_emails.svg')
+
+# Generate the updated README.md page
+with open('README.md.top') as f:
+    mdpage = f.readlines()
+
+mdpage.extend(['', '# Packages with outdated email address', ''])
+
+for addr in sorted(data.keys()):
+    if addr == 'team+python@tracker.debian.org':
+        continue
+
+    pkgs = data[addr]
+    mdpage.append(f"## `{addr}`")
+    mdpage.append(f"Total packages: {len(pkgs)}")
+
+    pkgs.sort(key=lambda x: x[0])
+
+    start = 1
+    stop = 1
+    _l = ['', '| # | Package | Version |', '| --- | --- | --- |']
+
+    for i, pkg in enumerate(pkgs):
+        stop = i + 1
+        _l.append(f"| {stop} | [{pkg[0]}](https://tracker.debian.org/{pkg[0]}) | {pkg[1]} |")
+
+        if stop % 50 == 0:
+            mdpage.extend(['<details>', f'<summary><b>{start}..{stop}</b></summary>', ''])
+            mdpage.extend(_l)
+            mdpage.append('</details>')
+            start = stop + 1
+            stop = 0
+            _l = ['| # | Package | Version |', '| --- | --- | --- |']
+
+    mdpage.extend(['<details>', f'<summary><b>{start}..{stop}</b></summary>', ''])
+    mdpage.extend(_l)
+    mdpage.append('</details>')
+    mdpage.append('')
+
+with open('README.md', 'w') as f:
+    f.write('\n'.join(mdpage))
