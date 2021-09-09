@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 80
+Total packages: 75
 <details>
 <summary><b>1..50</b></summary>
 
@@ -25,90 +25,85 @@ Total packages: 80
 | --- | --- | --- |
 | 1 | [alot](https://tracker.debian.org/alot) | 0.9.1-2 |
 | 2 | [archmage](https://tracker.debian.org/archmage) | 1:0.4.2.1-1 |
-| 3 | [autosuspend](https://tracker.debian.org/autosuspend) | 3.0-1 |
-| 4 | [backblaze-b2](https://tracker.debian.org/backblaze-b2) | 1.3.8-4 |
-| 5 | [backupchecker](https://tracker.debian.org/backupchecker) | 1.7-2 |
-| 6 | [beets](https://tracker.debian.org/beets) | 1.4.9-7 |
-| 7 | [bleachbit](https://tracker.debian.org/bleachbit) | 3.9.0-1 |
-| 8 | [brebis](https://tracker.debian.org/brebis) | 0.10-1 |
-| 9 | [clustershell](https://tracker.debian.org/clustershell) | 1.8.3-1 |
-| 10 | [crudini](https://tracker.debian.org/crudini) | 0.9.3-4 |
-| 11 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
-| 12 | [cython](https://tracker.debian.org/cython) | 0.29.14-1 |
-| 13 | [db2twitter](https://tracker.debian.org/db2twitter) | 0.6-1.1 |
-| 14 | [dirtbike](https://tracker.debian.org/dirtbike) | 0.3-7 |
-| 15 | [discodos](https://tracker.debian.org/discodos) | 1.0~rc2-1 |
-| 16 | [dkimpy-milter](https://tracker.debian.org/dkimpy-milter) | 1.2.2-1 |
-| 17 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
-| 18 | [dot2tex](https://tracker.debian.org/dot2tex) | 2.11.3-2 |
-| 19 | [droidlysis](https://tracker.debian.org/droidlysis) | 3.2.1-1 |
-| 20 | [eric](https://tracker.debian.org/eric) | 21.1+ds1-1 |
-| 21 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
-| 22 | [firmware-microbit-micropython](https://tracker.debian.org/firmware-microbit-micropython) | 1.0.1-2 |
-| 23 | [flatlatex](https://tracker.debian.org/flatlatex) | 0.8-1.1 |
-| 24 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
-| 25 | [gaupol](https://tracker.debian.org/gaupol) | 1.9-1 |
-| 26 | [ghp-import](https://tracker.debian.org/ghp-import) | 0.5.5-2 |
-| 27 | [gitinspector](https://tracker.debian.org/gitinspector) | 0.4.4+dfsg-9 |
-| 28 | [gui-ufw](https://tracker.debian.org/gui-ufw) | 20.04.1-1 |
-| 29 | [httpcode](https://tracker.debian.org/httpcode) | 0.6-1 |
-| 30 | [isbg](https://tracker.debian.org/isbg) | 2.3.1-1 |
-| 31 | [itstool](https://tracker.debian.org/itstool) | 2.0.6-1 |
-| 32 | [j2cli](https://tracker.debian.org/j2cli) | 0.3.12b-2 |
-| 33 | [jeepyb](https://tracker.debian.org/jeepyb) | 0+20190513-1 |
-| 34 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
-| 35 | [kazam](https://tracker.debian.org/kazam) | 1.4.5-4 |
-| 36 | [khard](https://tracker.debian.org/khard) | 0.17.0-1 |
-| 37 | [legit](https://tracker.debian.org/legit) | 1.2.0.post0-1 |
-| 38 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-| 39 | [mayavi2](https://tracker.debian.org/mayavi2) | 4.7.1-2 |
-| 40 | [membernator](https://tracker.debian.org/membernator) | 1.1.0-2 |
-| 41 | [menulibre](https://tracker.debian.org/menulibre) | 2.2.1-1 |
-| 42 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
-| 43 | [nfoview](https://tracker.debian.org/nfoview) | 1.28-1 |
-| 44 | [pandoc-plantuml-filter](https://tracker.debian.org/pandoc-plantuml-filter) | 0.1.1-2 |
-| 45 | [pdfarranger](https://tracker.debian.org/pdfarranger) | 1.6.2-1 |
-| 46 | [pdfposter](https://tracker.debian.org/pdfposter) | 0.7.post1-1 |
-| 47 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
-| 48 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
-| 49 | [policyd-rate-limit](https://tracker.debian.org/policyd-rate-limit) | 1.0.1.1-1 |
-| 50 | [powerline-gitstatus](https://tracker.debian.org/powerline-gitstatus) | 1.3.1-2 |
+| 3 | [beets](https://tracker.debian.org/beets) | 1.4.9-7 |
+| 4 | [clustershell](https://tracker.debian.org/clustershell) | 1.8.3-1 |
+| 5 | [crudini](https://tracker.debian.org/crudini) | 0.9.3-4 |
+| 6 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
+| 7 | [cython](https://tracker.debian.org/cython) | 0.29.14-1 |
+| 8 | [db2twitter](https://tracker.debian.org/db2twitter) | 0.6-1.1 |
+| 9 | [dirtbike](https://tracker.debian.org/dirtbike) | 0.3-7 |
+| 10 | [discodos](https://tracker.debian.org/discodos) | 1.0~rc2-1 |
+| 11 | [dkimpy-milter](https://tracker.debian.org/dkimpy-milter) | 1.2.2-1 |
+| 12 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
+| 13 | [dot2tex](https://tracker.debian.org/dot2tex) | 2.11.3-2 |
+| 14 | [droidlysis](https://tracker.debian.org/droidlysis) | 3.2.1-1 |
+| 15 | [eric](https://tracker.debian.org/eric) | 21.1+ds1-1 |
+| 16 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
+| 17 | [firmware-microbit-micropython](https://tracker.debian.org/firmware-microbit-micropython) | 1.0.1-2 |
+| 18 | [flatlatex](https://tracker.debian.org/flatlatex) | 0.8-1.1 |
+| 19 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
+| 20 | [gaupol](https://tracker.debian.org/gaupol) | 1.9-1 |
+| 21 | [ghp-import](https://tracker.debian.org/ghp-import) | 0.5.5-2 |
+| 22 | [gitinspector](https://tracker.debian.org/gitinspector) | 0.4.4+dfsg-9 |
+| 23 | [gui-ufw](https://tracker.debian.org/gui-ufw) | 20.04.1-1 |
+| 24 | [httpcode](https://tracker.debian.org/httpcode) | 0.6-1 |
+| 25 | [isbg](https://tracker.debian.org/isbg) | 2.3.1-1 |
+| 26 | [itstool](https://tracker.debian.org/itstool) | 2.0.6-1 |
+| 27 | [j2cli](https://tracker.debian.org/j2cli) | 0.3.12b-2 |
+| 28 | [jeepyb](https://tracker.debian.org/jeepyb) | 0+20190513-1 |
+| 29 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
+| 30 | [kazam](https://tracker.debian.org/kazam) | 1.4.5-4 |
+| 31 | [khard](https://tracker.debian.org/khard) | 0.17.0-1 |
+| 32 | [legit](https://tracker.debian.org/legit) | 1.2.0.post0-1 |
+| 33 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
+| 34 | [mayavi2](https://tracker.debian.org/mayavi2) | 4.7.1-2 |
+| 35 | [membernator](https://tracker.debian.org/membernator) | 1.1.0-2 |
+| 36 | [menulibre](https://tracker.debian.org/menulibre) | 2.2.1-1 |
+| 37 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
+| 38 | [nfoview](https://tracker.debian.org/nfoview) | 1.28-1 |
+| 39 | [pandoc-plantuml-filter](https://tracker.debian.org/pandoc-plantuml-filter) | 0.1.1-2 |
+| 40 | [pdfarranger](https://tracker.debian.org/pdfarranger) | 1.6.2-1 |
+| 41 | [pdfposter](https://tracker.debian.org/pdfposter) | 0.7.post1-1 |
+| 42 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
+| 43 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
+| 44 | [policyd-rate-limit](https://tracker.debian.org/policyd-rate-limit) | 1.0.1.1-1 |
+| 45 | [powerline-gitstatus](https://tracker.debian.org/powerline-gitstatus) | 1.3.1-2 |
+| 46 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
+| 47 | [puddletag](https://tracker.debian.org/puddletag) | 2.0.1-2 |
+| 48 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
+| 49 | [pydocstyle](https://tracker.debian.org/pydocstyle) | 2.1.1-1 |
+| 50 | [pydoctor](https://tracker.debian.org/pydoctor) | 19.11.0+git20200303.47424e7-1 |
 </details>
 <details>
-<summary><b>51..80</b></summary>
+<summary><b>51..75</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 51 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
-| 52 | [puddletag](https://tracker.debian.org/puddletag) | 2.0.1-2 |
-| 53 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 54 | [pydocstyle](https://tracker.debian.org/pydocstyle) | 2.1.1-1 |
-| 55 | [pydoctor](https://tracker.debian.org/pydoctor) | 19.11.0+git20200303.47424e7-1 |
-| 56 | [pyp](https://tracker.debian.org/pyp) | 2.12-2 |
-| 57 | [pypass](https://tracker.debian.org/pypass) | 0.2.1-1.1 |
-| 58 | [python-miio](https://tracker.debian.org/python-miio) | 0.5.0.1-1 |
-| 59 | [pytrainer](https://tracker.debian.org/pytrainer) | 2.0.2-1 |
-| 60 | [rabbitvcs](https://tracker.debian.org/rabbitvcs) | 0.18-2 |
-| 61 | [radon](https://tracker.debian.org/radon) | 4.1.0+dfsg-1 |
-| 62 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 63 | [rst2pdf](https://tracker.debian.org/rst2pdf) | 0.98-1 |
-| 64 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
-| 65 | [simple-image-reducer](https://tracker.debian.org/simple-image-reducer) | 1.0.2+git20191008-1 |
-| 66 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 67 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
-| 68 | [spf-engine](https://tracker.debian.org/spf-engine) | 2.9.2-1 |
-| 69 | [sqlacodegen](https://tracker.debian.org/sqlacodegen) | 1.1.6-3 |
-| 70 | [subdownloader](https://tracker.debian.org/subdownloader) | 2.1.0-3 |
-| 71 | [testrepository](https://tracker.debian.org/testrepository) | 0.0.20-5 |
-| 72 | [tldr-py](https://tracker.debian.org/tldr-py) | 0.7.0-3 |
-| 73 | [toot](https://tracker.debian.org/toot) | 0.28.0-1 |
-| 74 | [twitterwatch](https://tracker.debian.org/twitterwatch) | 0.1-1.1 |
-| 75 | [txt2tags](https://tracker.debian.org/txt2tags) | 3.4-2 |
-| 76 | [vf1](https://tracker.debian.org/vf1) | 0.0.11-2 |
-| 77 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
-| 78 | [vrfydmn](https://tracker.debian.org/vrfydmn) | 0.11.0-1 |
-| 79 | [weasyprint](https://tracker.debian.org/weasyprint) | 51-2 |
-| 80 | [zktop](https://tracker.debian.org/zktop) | 1.0.0-3 |
+| 51 | [pyp](https://tracker.debian.org/pyp) | 2.12-2 |
+| 52 | [pypass](https://tracker.debian.org/pypass) | 0.2.1-1.1 |
+| 53 | [python-miio](https://tracker.debian.org/python-miio) | 0.5.0.1-1 |
+| 54 | [pytrainer](https://tracker.debian.org/pytrainer) | 2.0.2-1 |
+| 55 | [rabbitvcs](https://tracker.debian.org/rabbitvcs) | 0.18-2 |
+| 56 | [radon](https://tracker.debian.org/radon) | 4.1.0+dfsg-1 |
+| 57 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
+| 58 | [rst2pdf](https://tracker.debian.org/rst2pdf) | 0.98-1 |
+| 59 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
+| 60 | [simple-image-reducer](https://tracker.debian.org/simple-image-reducer) | 1.0.2+git20191008-1 |
+| 61 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 62 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
+| 63 | [spf-engine](https://tracker.debian.org/spf-engine) | 2.9.2-1 |
+| 64 | [sqlacodegen](https://tracker.debian.org/sqlacodegen) | 1.1.6-3 |
+| 65 | [subdownloader](https://tracker.debian.org/subdownloader) | 2.1.0-3 |
+| 66 | [testrepository](https://tracker.debian.org/testrepository) | 0.0.20-5 |
+| 67 | [tldr-py](https://tracker.debian.org/tldr-py) | 0.7.0-3 |
+| 68 | [toot](https://tracker.debian.org/toot) | 0.28.0-1 |
+| 69 | [twitterwatch](https://tracker.debian.org/twitterwatch) | 0.1-1.1 |
+| 70 | [txt2tags](https://tracker.debian.org/txt2tags) | 3.4-2 |
+| 71 | [vf1](https://tracker.debian.org/vf1) | 0.0.11-2 |
+| 72 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
+| 73 | [vrfydmn](https://tracker.debian.org/vrfydmn) | 0.11.0-1 |
+| 74 | [weasyprint](https://tracker.debian.org/weasyprint) | 51-2 |
+| 75 | [zktop](https://tracker.debian.org/zktop) | 1.0.0-3 |
 </details>
 
 ## `python-modules-team@alioth-lists.debian.net`
