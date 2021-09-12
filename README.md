@@ -105,15 +105,14 @@ Total packages: 73
 </details>
 
 ## `python-modules-team@alioth-lists.debian.net`
-Total packages: 2
+Total packages: 1
 <details>
-<summary><b>1..2</b></summary>
+<summary><b>1..1</b></summary>
 
 
 | # | Package | Version |
 | --- | --- | --- |
-| 1 | [python-anyio](https://tracker.debian.org/python-anyio) | 2.0.2-2 |
-| 2 | [setuptools-scm](https://tracker.debian.org/setuptools-scm) | 4.1.2-3 |
+| 1 | [setuptools-scm](https://tracker.debian.org/setuptools-scm) | 4.1.2-3 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
