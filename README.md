@@ -16,37 +16,36 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 24
+Total packages: 23
 <details>
-<summary><b>1..24</b></summary>
+<summary><b>1..23</b></summary>
 
 
 | # | Package | Version |
 | --- | --- | --- |
-| 1 | [alot](https://tracker.debian.org/alot) | 0.9.1-2 |
-| 2 | [archmage](https://tracker.debian.org/archmage) | 1:0.4.2.1-1 |
-| 3 | [beets](https://tracker.debian.org/beets) | 1.4.9-7 |
-| 4 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
-| 5 | [cython](https://tracker.debian.org/cython) | 0.29.14-1 |
-| 6 | [db2twitter](https://tracker.debian.org/db2twitter) | 0.6-1.1 |
-| 7 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
-| 8 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
-| 9 | [firmware-microbit-micropython](https://tracker.debian.org/firmware-microbit-micropython) | 1.0.1-2 |
-| 10 | [flatlatex](https://tracker.debian.org/flatlatex) | 0.8-1.1 |
-| 11 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
-| 12 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
-| 13 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-| 14 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
-| 15 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
-| 16 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
-| 17 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
-| 18 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 19 | [radon](https://tracker.debian.org/radon) | 4.1.0+dfsg-1 |
-| 20 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 21 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
-| 22 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 23 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
-| 24 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
+| 1 | [archmage](https://tracker.debian.org/archmage) | 1:0.4.2.1-1 |
+| 2 | [beets](https://tracker.debian.org/beets) | 1.4.9-7 |
+| 3 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
+| 4 | [cython](https://tracker.debian.org/cython) | 0.29.14-1 |
+| 5 | [db2twitter](https://tracker.debian.org/db2twitter) | 0.6-1.1 |
+| 6 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
+| 7 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
+| 8 | [firmware-microbit-micropython](https://tracker.debian.org/firmware-microbit-micropython) | 1.0.1-2 |
+| 9 | [flatlatex](https://tracker.debian.org/flatlatex) | 0.8-1.1 |
+| 10 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
+| 11 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
+| 12 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
+| 13 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
+| 14 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
+| 15 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
+| 16 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
+| 17 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
+| 18 | [radon](https://tracker.debian.org/radon) | 4.1.0+dfsg-1 |
+| 19 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
+| 20 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
+| 21 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 22 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
+| 23 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
 </details>
 
 ## `python-modules-team@alioth-lists.debian.net`
