@@ -46,17 +46,6 @@ Total packages: 21
 | 21 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
 </details>
 
-## `python-modules-team@alioth-lists.debian.net`
-Total packages: 1
-<details>
-<summary><b>1..1</b></summary>
-
-
-| # | Package | Version |
-| --- | --- | --- |
-| 1 | [setuptools-scm](https://tracker.debian.org/setuptools-scm) | 4.1.2-3 |
-</details>
-
 ## `python-modules-team@lists.alioth.debian.org`
 Total packages: 710
 <details>
