@@ -69,7 +69,7 @@ with open(DATAFILE, 'w') as f:
     json.dump(DATA, f, indent=2)
 
 # Generate the progress image
-plt_locator = mdates.DayLocator()
+plt_locator = mdates.AutoDateLocator()
 plt_formatter = mdates.AutoDateFormatter(plt_locator)
 fig, ax = plt.subplots()
 fig.set_size_inches(16, 10)
