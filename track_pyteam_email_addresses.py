@@ -12,6 +12,7 @@ from collections import defaultdict
 
 import dateutil
 import matplotlib.dates as mdates
+import matplotlib.patches as mpatches
 import psycopg2
 from matplotlib import pyplot as plt
 
@@ -32,8 +33,6 @@ SELECT uploaders, source, version
  WHERE release = 'sid'
    AND uploaders LIKE '%python%';
 """
-
-LINEWIDTH = {"team+python@tracker.debian.org": 4}
 
 conn = psycopg2.connect("postgresql://udd-mirror:udd-mirror@udd-mirror.debian.net/udd")
 conn.set_client_encoding('UTF-8')
@@ -75,14 +74,25 @@ fig, ax = plt.subplots()
 fig.set_size_inches(16, 10)
 ax.xaxis.set_major_locator(plt_locator)
 ax.xaxis.set_major_formatter(plt_formatter)
-for k, v in DATA.items():
-    ax.plot(list(map(dateutil.parser.parse, DATA[k].keys())), DATA[k].values(), label=f"{k} ({v.get(TODAY, 0)})", linewidth=LINEWIDTH.get(k, 1.5))
+
+# sort by "today" value
+for k, v in dict(sorted(DATA.items(), key=lambda kv: kv[1].get(TODAY, 0), reverse=True)).items():
+    if k == "team+python@tracker.debian.org":
+        continue
+    ax.plot(list(map(dateutil.parser.parse, DATA[k].keys())), DATA[k].values(), label=f"{k} ({v.get(TODAY, 0)})", linewidth=1.5)
+
 ax.axvline(datetime.date(2021, 9, 5), ymin=0, ymax=1, color='red', linestyle='dashed')
 ax.annotate('Added uploaders data', xy=(datetime.date(2021, 9, 5), 300), xytext=(datetime.date(2021, 9, 1), 200), arrowprops=dict(facecolor='red'), xycoords='data', color='red')
 plt.xticks(rotation=18, ha='right')
 plt.grid()
 fig.tight_layout()
-ax.legend(loc='center left')
+
+# dont draw the line for an every increasing "proper" team, just add an entry to the legend with the current value
+handles, labels = ax.get_legend_handles_labels()
+right_team = mpatches.Patch(alpha=0, label=f'team+python@tracker.debian.org ({DATA["team+python@tracker.debian.org"].get(TODAY)})')
+handles.insert(0, right_team)
+ax.legend(handles=handles, loc='center left')
+
 plt.savefig('images/python_team_emails.svg')
 
 # Generate the updated README.md page
