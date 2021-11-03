@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 20
+Total packages: 18
 <details>
-<summary><b>1..20</b></summary>
+<summary><b>1..18</b></summary>
 
 
 | # | Package | Version |
@@ -29,20 +29,18 @@ Total packages: 20
 | 4 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
 | 5 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
 | 6 | [firmware-microbit-micropython](https://tracker.debian.org/firmware-microbit-micropython) | 1.0.1-2 |
-| 7 | [flatlatex](https://tracker.debian.org/flatlatex) | 0.8-1.1 |
-| 8 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
-| 9 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
-| 10 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-| 11 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
-| 12 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
-| 13 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
-| 14 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
-| 15 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 16 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 17 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
-| 18 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 19 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
-| 20 | [voltron](https://tracker.debian.org/voltron) | 0.1.7+git20200109-1.1 |
+| 7 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
+| 8 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
+| 9 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
+| 10 | [muttdown](https://tracker.debian.org/muttdown) | 0.3.4-1 |
+| 11 | [pelican](https://tracker.debian.org/pelican) | 4.0.1+dfsg-1.1 |
+| 12 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
+| 13 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
+| 14 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
+| 15 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
+| 16 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
+| 17 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 18 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
