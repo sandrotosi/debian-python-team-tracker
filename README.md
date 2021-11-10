@@ -44,7 +44,7 @@ Total packages: 18
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 655
+Total packages: 654
 <details>
 <summary><b>1..50</b></summary>
 
@@ -752,36 +752,35 @@ Total packages: 655
 | 627 | [txzmq](https://tracker.debian.org/txzmq) | 0.8.0-2 |
 | 628 | [typogrify](https://tracker.debian.org/typogrify) | 1:2.0.7-2 |
 | 629 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
-| 630 | [unittest2](https://tracker.debian.org/unittest2) | 1.1.0-7 |
-| 631 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
-| 632 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
-| 633 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
-| 634 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 635 | [voluptuous](https://tracker.debian.org/voluptuous) | 0.11.1-1 |
-| 636 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
-| 637 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
-| 638 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
-| 639 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 640 | [websocket-client](https://tracker.debian.org/websocket-client) | 0.57.0-1 |
-| 641 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
-| 642 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 643 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 644 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 645 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 646 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 647 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 648 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 649 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 650 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 630 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
+| 631 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
+| 632 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
+| 633 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 634 | [voluptuous](https://tracker.debian.org/voluptuous) | 0.11.1-1 |
+| 635 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
+| 636 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
+| 637 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
+| 638 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 639 | [websocket-client](https://tracker.debian.org/websocket-client) | 0.57.0-1 |
+| 640 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
+| 641 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 642 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 643 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 644 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 645 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 646 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 647 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 648 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 649 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 650 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
 </details>
 <details>
-<summary><b>651..655</b></summary>
+<summary><b>651..654</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 651 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 652 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 653 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 654 | [zodbpickle](https://tracker.debian.org/zodbpickle) | 1.0-3 |
-| 655 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 651 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 652 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 653 | [zodbpickle](https://tracker.debian.org/zodbpickle) | 1.0-3 |
+| 654 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
