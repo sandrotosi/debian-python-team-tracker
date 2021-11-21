@@ -44,7 +44,7 @@ Total packages: 18
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 635
+Total packages: 634
 <details>
 <summary><b>1..50</b></summary>
 
@@ -719,7 +719,7 @@ Total packages: 635
 | 600 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
 </details>
 <details>
-<summary><b>601..635</b></summary>
+<summary><b>601..634</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
@@ -756,6 +756,5 @@ Total packages: 635
 | 631 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
 | 632 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
 | 633 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 634 | [zodbpickle](https://tracker.debian.org/zodbpickle) | 1.0-3 |
-| 635 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 634 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
