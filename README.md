@@ -44,7 +44,7 @@ Total packages: 18
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 634
+Total packages: 633
 <details>
 <summary><b>1..50</b></summary>
 
@@ -715,46 +715,45 @@ Total packages: 634
 | 596 | [straight.plugin](https://tracker.debian.org/straight.plugin) | 1.4.1-3 |
 | 597 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
 | 598 | [subvertpy](https://tracker.debian.org/subvertpy) | 0.11.0~git20191228+2423bf1-3 |
-| 599 | [svgwrite](https://tracker.debian.org/svgwrite) | 1.3.1-1 |
-| 600 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 599 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 600 | [terminaltables](https://tracker.debian.org/terminaltables) | 3.1.0-3 |
 </details>
 <details>
-<summary><b>601..634</b></summary>
+<summary><b>601..633</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 601 | [terminaltables](https://tracker.debian.org/terminaltables) | 3.1.0-3 |
-| 602 | [texext](https://tracker.debian.org/texext) | 0.6.6-2 |
-| 603 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 604 | [tldextract](https://tracker.debian.org/tldextract) | 2.2.1-1 |
-| 605 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
-| 606 | [transmissionrpc](https://tracker.debian.org/transmissionrpc) | 0.11-4 |
-| 607 | [twodict](https://tracker.debian.org/twodict) | 1.2-2 |
-| 608 | [txws](https://tracker.debian.org/txws) | 0.9.1-4 |
-| 609 | [txzmq](https://tracker.debian.org/txzmq) | 0.8.0-2 |
-| 610 | [typogrify](https://tracker.debian.org/typogrify) | 1:2.0.7-2 |
-| 611 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
-| 612 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
-| 613 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
-| 614 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
-| 615 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 616 | [voluptuous](https://tracker.debian.org/voluptuous) | 0.11.1-1 |
-| 617 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
-| 618 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
-| 619 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
-| 620 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 621 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
-| 622 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 623 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 624 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 625 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 626 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 627 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 628 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 629 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 630 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
-| 631 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 632 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 633 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 634 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 601 | [texext](https://tracker.debian.org/texext) | 0.6.6-2 |
+| 602 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 603 | [tldextract](https://tracker.debian.org/tldextract) | 2.2.1-1 |
+| 604 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
+| 605 | [transmissionrpc](https://tracker.debian.org/transmissionrpc) | 0.11-4 |
+| 606 | [twodict](https://tracker.debian.org/twodict) | 1.2-2 |
+| 607 | [txws](https://tracker.debian.org/txws) | 0.9.1-4 |
+| 608 | [txzmq](https://tracker.debian.org/txzmq) | 0.8.0-2 |
+| 609 | [typogrify](https://tracker.debian.org/typogrify) | 1:2.0.7-2 |
+| 610 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
+| 611 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
+| 612 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
+| 613 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
+| 614 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 615 | [voluptuous](https://tracker.debian.org/voluptuous) | 0.11.1-1 |
+| 616 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
+| 617 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
+| 618 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
+| 619 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 620 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
+| 621 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 622 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 623 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 624 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 625 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 626 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 627 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 628 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 629 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 630 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
+| 631 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 632 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 633 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
