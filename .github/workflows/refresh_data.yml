@@ -1,7 +1,6 @@
 name: Refresh Data
 
 on:
-  push:
   schedule:
     - cron:  '23 */6 * * *'
 
