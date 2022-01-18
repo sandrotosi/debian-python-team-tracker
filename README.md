@@ -41,7 +41,7 @@ Total packages: 15
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 518
+Total packages: 517
 <details>
 <summary><b>1..50</b></summary>
 
@@ -533,97 +533,96 @@ Total packages: 518
 | 435 | [python-zxcvbn](https://tracker.debian.org/python-zxcvbn) | 4.4.28-2 |
 | 436 | [python3-proselint](https://tracker.debian.org/python3-proselint) | 0.10.2-2 |
 | 437 | [pythondialog](https://tracker.debian.org/pythondialog) | 3.5.1-1 |
-| 438 | [pythonmagick](https://tracker.debian.org/pythonmagick) | 0.9.19-6 |
-| 439 | [pytoml](https://tracker.debian.org/pytoml) | 0.1.21-1 |
-| 440 | [pyuca](https://tracker.debian.org/pyuca) | 1.2-2 |
-| 441 | [pyutilib](https://tracker.debian.org/pyutilib) | 5.8.0-1 |
-| 442 | [pywavelets](https://tracker.debian.org/pywavelets) | 1.1.1-1 |
-| 443 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
-| 444 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 445 | [readlike](https://tracker.debian.org/readlike) | 0.1.3-1.1 |
-| 446 | [recommonmark](https://tracker.debian.org/recommonmark) | 0.6.0+ds-1 |
-| 447 | [redis-py-cluster](https://tracker.debian.org/redis-py-cluster) | 2.0.0-1 |
-| 448 | [reentry](https://tracker.debian.org/reentry) | 1.3.1-1 |
-| 449 | [reparser](https://tracker.debian.org/reparser) | 1.4.3-1 |
-| 450 | [requests-aws](https://tracker.debian.org/requests-aws) | 0.1.5-2 |
+| 438 | [pytoml](https://tracker.debian.org/pytoml) | 0.1.21-1 |
+| 439 | [pyuca](https://tracker.debian.org/pyuca) | 1.2-2 |
+| 440 | [pyutilib](https://tracker.debian.org/pyutilib) | 5.8.0-1 |
+| 441 | [pywavelets](https://tracker.debian.org/pywavelets) | 1.1.1-1 |
+| 442 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
+| 443 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 444 | [readlike](https://tracker.debian.org/readlike) | 0.1.3-1.1 |
+| 445 | [recommonmark](https://tracker.debian.org/recommonmark) | 0.6.0+ds-1 |
+| 446 | [redis-py-cluster](https://tracker.debian.org/redis-py-cluster) | 2.0.0-1 |
+| 447 | [reentry](https://tracker.debian.org/reentry) | 1.3.1-1 |
+| 448 | [reparser](https://tracker.debian.org/reparser) | 1.4.3-1 |
+| 449 | [requests-aws](https://tracker.debian.org/requests-aws) | 0.1.5-2 |
+| 450 | [ripe-atlas-cousteau](https://tracker.debian.org/ripe-atlas-cousteau) | 1.4.2-3 |
 </details>
 <details>
 <summary><b>451..500</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 451 | [ripe-atlas-cousteau](https://tracker.debian.org/ripe-atlas-cousteau) | 1.4.2-3 |
-| 452 | [ripe-atlas-sagan](https://tracker.debian.org/ripe-atlas-sagan) | 1.2.2-2 |
-| 453 | [robot-detection](https://tracker.debian.org/robot-detection) | 0.4.0-2 |
-| 454 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
-| 455 | [sgmllib3k](https://tracker.debian.org/sgmllib3k) | 1.0.0-3 |
-| 456 | [simplegeneric](https://tracker.debian.org/simplegeneric) | 0.8.1-3 |
-| 457 | [singledispatch](https://tracker.debian.org/singledispatch) | 3.4.0.3-3 |
-| 458 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
-| 459 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
-| 460 | [slimit](https://tracker.debian.org/slimit) | 0.8.1-4 |
-| 461 | [smartypants](https://tracker.debian.org/smartypants) | 2.0.0-2 |
-| 462 | [sortedcontainers](https://tracker.debian.org/sortedcontainers) | 2.1.0-2 |
-| 463 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
-| 464 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-2 |
-| 465 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-3 |
-| 466 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
-| 467 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
-| 468 | [sphinx](https://tracker.debian.org/sphinx) | 2.4.3-2 |
-| 469 | [sphinx](https://tracker.debian.org/sphinx) | 2.4.3-4 |
-| 470 | [sphinx-autorun](https://tracker.debian.org/sphinx-autorun) | 1.1.0-3.1 |
-| 471 | [sphinx-celery](https://tracker.debian.org/sphinx-celery) | 2.0.0-1 |
-| 472 | [sphinx-intl](https://tracker.debian.org/sphinx-intl) | 2.0.1-2 |
-| 473 | [sphinxcontrib-devhelp](https://tracker.debian.org/sphinxcontrib-devhelp) | 1.0.2-2 |
-| 474 | [sphinxcontrib-doxylink](https://tracker.debian.org/sphinxcontrib-doxylink) | 1.5-1 |
-| 475 | [sphinxcontrib-log-cabinet](https://tracker.debian.org/sphinxcontrib-log-cabinet) | 1.0.1-2 |
-| 476 | [sphinxcontrib-qthelp](https://tracker.debian.org/sphinxcontrib-qthelp) | 1.0.3-2 |
-| 477 | [sphinxcontrib-rubydomain](https://tracker.debian.org/sphinxcontrib-rubydomain) | 0.1~dev-20100804-2 |
-| 478 | [sphinxcontrib-websupport](https://tracker.debian.org/sphinxcontrib-websupport) | 1.2.4-1 |
-| 479 | [sphinxtesters](https://tracker.debian.org/sphinxtesters) | 0.2.3-1 |
-| 480 | [sshpubkeys](https://tracker.debian.org/sshpubkeys) | 3.1.0-2.1 |
-| 481 | [sshtunnel](https://tracker.debian.org/sshtunnel) | 0.1.4-2 |
-| 482 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
-| 483 | [straight.plugin](https://tracker.debian.org/straight.plugin) | 1.4.1-3 |
-| 484 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
-| 485 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
-| 486 | [terminaltables](https://tracker.debian.org/terminaltables) | 3.1.0-3 |
-| 487 | [texext](https://tracker.debian.org/texext) | 0.6.6-2 |
-| 488 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 489 | [tldextract](https://tracker.debian.org/tldextract) | 2.2.1-1 |
-| 490 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
-| 491 | [transmissionrpc](https://tracker.debian.org/transmissionrpc) | 0.11-4 |
-| 492 | [twodict](https://tracker.debian.org/twodict) | 1.2-2 |
-| 493 | [txws](https://tracker.debian.org/txws) | 0.9.1-4 |
-| 494 | [txzmq](https://tracker.debian.org/txzmq) | 0.8.0-2 |
-| 495 | [typogrify](https://tracker.debian.org/typogrify) | 1:2.0.7-2 |
-| 496 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
-| 497 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
-| 498 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
-| 499 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
-| 500 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 451 | [ripe-atlas-sagan](https://tracker.debian.org/ripe-atlas-sagan) | 1.2.2-2 |
+| 452 | [robot-detection](https://tracker.debian.org/robot-detection) | 0.4.0-2 |
+| 453 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
+| 454 | [sgmllib3k](https://tracker.debian.org/sgmllib3k) | 1.0.0-3 |
+| 455 | [simplegeneric](https://tracker.debian.org/simplegeneric) | 0.8.1-3 |
+| 456 | [singledispatch](https://tracker.debian.org/singledispatch) | 3.4.0.3-3 |
+| 457 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
+| 458 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
+| 459 | [slimit](https://tracker.debian.org/slimit) | 0.8.1-4 |
+| 460 | [smartypants](https://tracker.debian.org/smartypants) | 2.0.0-2 |
+| 461 | [sortedcontainers](https://tracker.debian.org/sortedcontainers) | 2.1.0-2 |
+| 462 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
+| 463 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-2 |
+| 464 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-3 |
+| 465 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
+| 466 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 467 | [sphinx](https://tracker.debian.org/sphinx) | 2.4.3-2 |
+| 468 | [sphinx](https://tracker.debian.org/sphinx) | 2.4.3-4 |
+| 469 | [sphinx-autorun](https://tracker.debian.org/sphinx-autorun) | 1.1.0-3.1 |
+| 470 | [sphinx-celery](https://tracker.debian.org/sphinx-celery) | 2.0.0-1 |
+| 471 | [sphinx-intl](https://tracker.debian.org/sphinx-intl) | 2.0.1-2 |
+| 472 | [sphinxcontrib-devhelp](https://tracker.debian.org/sphinxcontrib-devhelp) | 1.0.2-2 |
+| 473 | [sphinxcontrib-doxylink](https://tracker.debian.org/sphinxcontrib-doxylink) | 1.5-1 |
+| 474 | [sphinxcontrib-log-cabinet](https://tracker.debian.org/sphinxcontrib-log-cabinet) | 1.0.1-2 |
+| 475 | [sphinxcontrib-qthelp](https://tracker.debian.org/sphinxcontrib-qthelp) | 1.0.3-2 |
+| 476 | [sphinxcontrib-rubydomain](https://tracker.debian.org/sphinxcontrib-rubydomain) | 0.1~dev-20100804-2 |
+| 477 | [sphinxcontrib-websupport](https://tracker.debian.org/sphinxcontrib-websupport) | 1.2.4-1 |
+| 478 | [sphinxtesters](https://tracker.debian.org/sphinxtesters) | 0.2.3-1 |
+| 479 | [sshpubkeys](https://tracker.debian.org/sshpubkeys) | 3.1.0-2.1 |
+| 480 | [sshtunnel](https://tracker.debian.org/sshtunnel) | 0.1.4-2 |
+| 481 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
+| 482 | [straight.plugin](https://tracker.debian.org/straight.plugin) | 1.4.1-3 |
+| 483 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
+| 484 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 485 | [terminaltables](https://tracker.debian.org/terminaltables) | 3.1.0-3 |
+| 486 | [texext](https://tracker.debian.org/texext) | 0.6.6-2 |
+| 487 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 488 | [tldextract](https://tracker.debian.org/tldextract) | 2.2.1-1 |
+| 489 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
+| 490 | [transmissionrpc](https://tracker.debian.org/transmissionrpc) | 0.11-4 |
+| 491 | [twodict](https://tracker.debian.org/twodict) | 1.2-2 |
+| 492 | [txws](https://tracker.debian.org/txws) | 0.9.1-4 |
+| 493 | [txzmq](https://tracker.debian.org/txzmq) | 0.8.0-2 |
+| 494 | [typogrify](https://tracker.debian.org/typogrify) | 1:2.0.7-2 |
+| 495 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
+| 496 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
+| 497 | [validators](https://tracker.debian.org/validators) | 0.14.2-2 |
+| 498 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
+| 499 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 500 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
 </details>
 <details>
-<summary><b>501..518</b></summary>
+<summary><b>501..517</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 501 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
-| 502 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
-| 503 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
-| 504 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 505 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
-| 506 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 507 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 508 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 509 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 510 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 511 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 512 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 513 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 514 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
-| 515 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 516 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 517 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 518 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 501 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
+| 502 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
+| 503 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 504 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
+| 505 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 506 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 507 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 508 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 509 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 510 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 511 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 512 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 513 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 514 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
+| 515 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 516 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 517 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
