@@ -41,7 +41,7 @@ Total packages: 15
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 516
+Total packages: 515
 <details>
 <summary><b>1..50</b></summary>
 
@@ -604,24 +604,23 @@ Total packages: 516
 | 500 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
 </details>
 <details>
-<summary><b>501..516</b></summary>
+<summary><b>501..515</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
 | 501 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
 | 502 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 503 | [wheel](https://tracker.debian.org/wheel) | 0.34.2-1 |
-| 504 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 505 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 506 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 507 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 508 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 509 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 510 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 511 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 512 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
-| 513 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 514 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 515 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 516 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 503 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 504 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 505 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 506 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 507 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 508 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 509 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 510 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 511 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 512 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
+| 513 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 514 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 515 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
