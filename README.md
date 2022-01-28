@@ -41,7 +41,7 @@ Total packages: 15
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 504
+Total packages: 503
 <details>
 <summary><b>1..50</b></summary>
 
@@ -591,25 +591,24 @@ Total packages: 504
 | 487 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
 | 488 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
 | 489 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
-| 490 | [wcwidth](https://tracker.debian.org/wcwidth) | 0.1.9+dfsg1-2 |
-| 491 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 492 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 493 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 494 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 495 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 496 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 497 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 498 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 499 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 500 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 490 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 491 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 492 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 493 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 494 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 495 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 496 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 497 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 498 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 499 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 500 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
 </details>
 <details>
-<summary><b>501..504</b></summary>
+<summary><b>501..503</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 501 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 502 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 503 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 504 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 501 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 502 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 503 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
