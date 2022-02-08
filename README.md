@@ -15,17 +15,6 @@ This repo is to track that effort, here's the results:
 
 # Packages with outdated email address
 
-## `debian-python@lists.debian.org`
-Total packages: 1
-<details>
-<summary><b>1..1</b></summary>
-
-
-| # | Package | Version |
-| --- | --- | --- |
-| 1 | [python-softlayer](https://tracker.debian.org/python-softlayer) | 5.9.8-1 |
-</details>
-
 ## `python-apps-team@lists.alioth.debian.org`
 Total packages: 15
 <details>
