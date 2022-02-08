@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 15
+Total packages: 14
 <details>
-<summary><b>1..15</b></summary>
+<summary><b>1..14</b></summary>
 
 
 | # | Package | Version |
@@ -35,9 +35,8 @@ Total packages: 15
 | 10 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
 | 11 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
 | 12 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 13 | [sen](https://tracker.debian.org/sen) | 0.6.1-0.1 |
-| 14 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 15 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
+| 13 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 14 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
