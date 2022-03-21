@@ -39,7 +39,7 @@ Total packages: 13
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 469
+Total packages: 468
 <details>
 <summary><b>1..50</b></summary>
 
@@ -546,27 +546,26 @@ Total packages: 469
 | 450 | [u-msgpack-python](https://tracker.debian.org/u-msgpack-python) | 2.3.0-2 |
 </details>
 <details>
-<summary><b>451..469</b></summary>
+<summary><b>451..468</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
 | 451 | [utidylib](https://tracker.debian.org/utidylib) | 0.5-3 |
-| 452 | [vcr.py](https://tracker.debian.org/vcr.py) | 4.0.2-1 |
-| 453 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 454 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
-| 455 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
-| 456 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 457 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
-| 458 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
-| 459 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
-| 460 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
-| 461 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 462 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
-| 463 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
-| 464 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 465 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
-| 466 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 467 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 468 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 469 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 452 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 453 | [vsts-cd-manager](https://tracker.debian.org/vsts-cd-manager) | 1.0.2-3 |
+| 454 | [wchartype](https://tracker.debian.org/wchartype) | 0.1-2 |
+| 455 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 456 | [whichcraft](https://tracker.debian.org/whichcraft) | 0.4.1-2 |
+| 457 | [wikitrans](https://tracker.debian.org/wikitrans) | 1.3-1 |
+| 458 | [willow](https://tracker.debian.org/willow) | 1.4-1 |
+| 459 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
+| 460 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 461 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 462 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
+| 463 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
+| 464 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
+| 465 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
+| 466 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 467 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 468 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
