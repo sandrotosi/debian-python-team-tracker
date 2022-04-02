@@ -16,26 +16,25 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 13
+Total packages: 12
 <details>
-<summary><b>1..13</b></summary>
+<summary><b>1..12</b></summary>
 
 
 | # | Package | Version |
 | --- | --- | --- |
 | 1 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
 | 2 | [db2twitter](https://tracker.debian.org/db2twitter) | 0.6-1.1 |
-| 3 | [dodgy](https://tracker.debian.org/dodgy) | 0.1.9-3 |
-| 4 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
-| 5 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
-| 6 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
-| 7 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-| 8 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
-| 9 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
-| 10 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 11 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 12 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 13 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
+| 3 | [etm](https://tracker.debian.org/etm) | 3.2.30-1.1 |
+| 4 | [freealchemist](https://tracker.debian.org/freealchemist) | 0.5-1.1 |
+| 5 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
+| 6 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
+| 7 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
+| 8 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
+| 9 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
+| 10 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
+| 11 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 12 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
