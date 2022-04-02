@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 12
+Total packages: 11
 <details>
-<summary><b>1..12</b></summary>
+<summary><b>1..11</b></summary>
 
 
 | # | Package | Version |
@@ -30,11 +30,10 @@ Total packages: 12
 | 5 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
 | 6 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
 | 7 | [pipenv](https://tracker.debian.org/pipenv) | 11.9.0-1.1 |
-| 8 | [prospector](https://tracker.debian.org/prospector) | 1.1.7-2 |
-| 9 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 10 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 11 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
-| 12 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
+| 8 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
+| 9 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
+| 10 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 11 | [smem](https://tracker.debian.org/smem) | 1.5-1.1 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
