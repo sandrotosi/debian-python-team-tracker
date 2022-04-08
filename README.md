@@ -37,7 +37,7 @@ Total packages: 11
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 459
+Total packages: 458
 <details>
 <summary><b>1..50</b></summary>
 
@@ -544,7 +544,7 @@ Total packages: 459
 | 450 | [wlc](https://tracker.debian.org/wlc) | 1.2-1 |
 </details>
 <details>
-<summary><b>451..459</b></summary>
+<summary><b>451..458</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
@@ -552,9 +552,8 @@ Total packages: 459
 | 452 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
 | 453 | [wtf-peewee](https://tracker.debian.org/wtf-peewee) | 3.0.0+dfsg-2 |
 | 454 | [wtforms](https://tracker.debian.org/wtforms) | 2.2.1-2 |
-| 455 | [xhtml2pdf](https://tracker.debian.org/xhtml2pdf) | 0.2.4-1 |
-| 456 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
-| 457 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
-| 458 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 459 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
+| 455 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
+| 456 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
+| 457 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
+| 458 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
