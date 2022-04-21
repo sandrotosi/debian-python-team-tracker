@@ -16,19 +16,14 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-apps-team@lists.alioth.debian.org`
-Total packages: 6
+Total packages: 1
 <details>
-<summary><b>1..6</b></summary>
+<summary><b>1..1</b></summary>
 
 
 | # | Package | Version |
 | --- | --- | --- |
-| 1 | [ctop](https://tracker.debian.org/ctop) | 1.0.0-2.1 |
-| 2 | [kanboard-cli](https://tracker.debian.org/kanboard-cli) | 0.0.2-1.1 |
-| 3 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-| 4 | [pybik](https://tracker.debian.org/pybik) | 3.0-3.1 |
-| 5 | [retweet](https://tracker.debian.org/retweet) | 0.10-1.1 |
-| 6 | [sinntp](https://tracker.debian.org/sinntp) | 1.6-1.2 |
+| 1 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
 </details>
 
 ## `python-modules-team@lists.alioth.debian.org`
