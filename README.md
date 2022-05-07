@@ -15,17 +15,6 @@ This repo is to track that effort, here's the results:
 
 # Packages with outdated email address
 
-## `python-apps-team@lists.alioth.debian.org`
-Total packages: 1
-<details>
-<summary><b>1..1</b></summary>
-
-
-| # | Package | Version |
-| --- | --- | --- |
-| 1 | [lightyears](https://tracker.debian.org/lightyears) | 1.4-2 |
-</details>
-
 ## `python-modules-team@lists.alioth.debian.org`
 Total packages: 332
 <details>
