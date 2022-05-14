@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 332
+Total packages: 331
 <details>
 <summary><b>1..50</b></summary>
 
@@ -355,7 +355,7 @@ Total packages: 332
 | 300 | [sphinxcontrib-websupport](https://tracker.debian.org/sphinxcontrib-websupport) | 1.2.4-1 |
 </details>
 <details>
-<summary><b>301..332</b></summary>
+<summary><b>301..331</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
@@ -390,5 +390,4 @@ Total packages: 332
 | 329 | [xlwt](https://tracker.debian.org/xlwt) | 1.3.0-3 |
 | 330 | [zc.lockfile](https://tracker.debian.org/zc.lockfile) | 2.0-1 |
 | 331 | [zict](https://tracker.debian.org/zict) | 2.0.0-1 |
-| 332 | [zope.deprecation](https://tracker.debian.org/zope.deprecation) | 4.4.0-4 |
 </details>
