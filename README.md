@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 116
+Total packages: 115
 <details>
 <summary><b>1..50</b></summary>
 
@@ -131,7 +131,7 @@ Total packages: 116
 | 100 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-3 |
 </details>
 <details>
-<summary><b>101..116</b></summary>
+<summary><b>101..115</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
@@ -139,16 +139,15 @@ Total packages: 116
 | 102 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
 | 103 | [sphinx-autorun](https://tracker.debian.org/sphinx-autorun) | 1.1.0-3.1 |
 | 104 | [sphinxcontrib-log-cabinet](https://tracker.debian.org/sphinxcontrib-log-cabinet) | 1.0.1-2 |
-| 105 | [sphinxcontrib-qthelp](https://tracker.debian.org/sphinxcontrib-qthelp) | 1.0.3-2 |
-| 106 | [sphinxtesters](https://tracker.debian.org/sphinxtesters) | 0.2.3-1 |
-| 107 | [sshpubkeys](https://tracker.debian.org/sshpubkeys) | 3.1.0-2.1 |
-| 108 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
-| 109 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
-| 110 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
-| 111 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 112 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
-| 113 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 114 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 115 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 116 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 105 | [sphinxtesters](https://tracker.debian.org/sphinxtesters) | 0.2.3-1 |
+| 106 | [sshpubkeys](https://tracker.debian.org/sshpubkeys) | 3.1.0-2.1 |
+| 107 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
+| 108 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
+| 109 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 110 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 111 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
+| 112 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 113 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 114 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 115 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
 </details>
