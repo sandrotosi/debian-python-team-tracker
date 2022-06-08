@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 107
+Total packages: 106
 <details>
 <summary><b>1..50</b></summary>
 
@@ -131,15 +131,14 @@ Total packages: 107
 | 100 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
 </details>
 <details>
-<summary><b>101..107</b></summary>
+<summary><b>101..106</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
 | 101 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
 | 102 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 103 | [translation-finder](https://tracker.debian.org/translation-finder) | 1.0-1 |
-| 104 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 105 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
-| 106 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
-| 107 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
+| 103 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 104 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 105 | [wokkel](https://tracker.debian.org/wokkel) | 18.0.0-3.1 |
+| 106 | [wsgiproxy2](https://tracker.debian.org/wsgiproxy2) | 0.4.5-1.1 |
 </details>
