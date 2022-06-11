@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 78
+Total packages: 77
 <details>
 <summary><b>1..50</b></summary>
 
@@ -75,7 +75,7 @@ Total packages: 78
 | 50 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
 </details>
 <details>
-<summary><b>51..78</b></summary>
+<summary><b>51..77</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
@@ -98,13 +98,12 @@ Total packages: 78
 | 67 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
 | 68 | [sortedcontainers](https://tracker.debian.org/sortedcontainers) | 2.1.0-2 |
 | 69 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
-| 70 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-3 |
-| 71 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
-| 72 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
-| 73 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
-| 74 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
-| 75 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
-| 76 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 77 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 78 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 70 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
+| 71 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 72 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
+| 73 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
+| 74 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 75 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 76 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 77 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
 </details>
