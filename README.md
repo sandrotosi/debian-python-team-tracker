@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 77
+Total packages: 75
 <details>
 <summary><b>1..50</b></summary>
 
@@ -63,47 +63,45 @@ Total packages: 77
 | 38 | [python-mailer](https://tracker.debian.org/python-mailer) | 0.8.1-4 |
 | 39 | [python-mastodon](https://tracker.debian.org/python-mastodon) | 1.5.1-1 |
 | 40 | [python-model-mommy](https://tracker.debian.org/python-model-mommy) | 1.6.0-2 |
-| 41 | [python-offtrac](https://tracker.debian.org/python-offtrac) | 0.1.0-2.1 |
-| 42 | [python-pathtools](https://tracker.debian.org/python-pathtools) | 0.1.2-4 |
-| 43 | [python-pem](https://tracker.debian.org/python-pem) | 19.1.0-1 |
-| 44 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
-| 45 | [python-pex](https://tracker.debian.org/python-pex) | 1.1.14-3.1 |
-| 46 | [python-phonenumbers](https://tracker.debian.org/python-phonenumbers) | 8.12.1-1 |
-| 47 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
-| 48 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
-| 49 | [python-ratelimiter](https://tracker.debian.org/python-ratelimiter) | 1.2.0.post0-1 |
-| 50 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
+| 41 | [python-pathtools](https://tracker.debian.org/python-pathtools) | 0.1.2-4 |
+| 42 | [python-pem](https://tracker.debian.org/python-pem) | 19.1.0-1 |
+| 43 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
+| 44 | [python-pex](https://tracker.debian.org/python-pex) | 1.1.14-3.1 |
+| 45 | [python-phonenumbers](https://tracker.debian.org/python-phonenumbers) | 8.12.1-1 |
+| 46 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
+| 47 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
+| 48 | [python-ratelimiter](https://tracker.debian.org/python-ratelimiter) | 1.2.0.post0-1 |
+| 49 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
+| 50 | [python-schedutils](https://tracker.debian.org/python-schedutils) | 0.6-2.1 |
 </details>
 <details>
-<summary><b>51..77</b></summary>
+<summary><b>51..75</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
-| 51 | [python-schedutils](https://tracker.debian.org/python-schedutils) | 0.6-2.1 |
-| 52 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
-| 53 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
-| 54 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
-| 55 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
-| 56 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
-| 57 | [python-testing.mysqld](https://tracker.debian.org/python-testing.mysqld) | 1.4.0-4 |
-| 58 | [python-testing.postgresql](https://tracker.debian.org/python-testing.postgresql) | 1.3.0-2 |
-| 59 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
-| 60 | [python-vobject](https://tracker.debian.org/python-vobject) | 0.9.6.1-0.2 |
-| 61 | [python-wheezy.template](https://tracker.debian.org/python-wheezy.template) | 0.1.167-2 |
-| 62 | [python-wither](https://tracker.debian.org/python-wither) | 1.1-2 |
-| 63 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
-| 64 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 65 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
-| 66 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
-| 67 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
-| 68 | [sortedcontainers](https://tracker.debian.org/sortedcontainers) | 2.1.0-2 |
-| 69 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
-| 70 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
-| 71 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
-| 72 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
-| 73 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
-| 74 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
-| 75 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 76 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 77 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 51 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
+| 52 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
+| 53 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
+| 54 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
+| 55 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
+| 56 | [python-testing.mysqld](https://tracker.debian.org/python-testing.mysqld) | 1.4.0-4 |
+| 57 | [python-testing.postgresql](https://tracker.debian.org/python-testing.postgresql) | 1.3.0-2 |
+| 58 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
+| 59 | [python-wheezy.template](https://tracker.debian.org/python-wheezy.template) | 0.1.167-2 |
+| 60 | [python-wither](https://tracker.debian.org/python-wither) | 1.1-2 |
+| 61 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
+| 62 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 63 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
+| 64 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
+| 65 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
+| 66 | [sortedcontainers](https://tracker.debian.org/sortedcontainers) | 2.1.0-2 |
+| 67 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
+| 68 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-4 |
+| 69 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 70 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
+| 71 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
+| 72 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 73 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 74 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 75 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
 </details>
