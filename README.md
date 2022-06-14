@@ -16,7 +16,7 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 65
+Total packages: 64
 <details>
 <summary><b>1..50</b></summary>
 
@@ -75,23 +75,22 @@ Total packages: 65
 | 50 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
 </details>
 <details>
-<summary><b>51..65</b></summary>
+<summary><b>51..64</b></summary>
 
 | # | Package | Version |
 | --- | --- | --- |
 | 51 | [python-wheezy.template](https://tracker.debian.org/python-wheezy.template) | 0.1.167-2 |
-| 52 | [python-wither](https://tracker.debian.org/python-wither) | 1.1-2 |
-| 53 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
-| 54 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 55 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
-| 56 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
-| 57 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
-| 58 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
-| 59 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
-| 60 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
-| 61 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
-| 62 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
-| 63 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
-| 64 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
-| 65 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
+| 52 | [pywinrm](https://tracker.debian.org/pywinrm) | 0.3.0-2 |
+| 53 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 54 | [routes](https://tracker.debian.org/routes) | 2.5.1-1 |
+| 55 | [sireader](https://tracker.debian.org/sireader) | 1.1.1-2 |
+| 56 | [sleekxmpp](https://tracker.debian.org/sleekxmpp) | 1.3.3-6 |
+| 57 | [speaklater](https://tracker.debian.org/speaklater) | 1.3-5 |
+| 58 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 59 | [stardicter](https://tracker.debian.org/stardicter) | 1.2-1 |
+| 60 | [stsci.distutils](https://tracker.debian.org/stsci.distutils) | 0.3.7-5 |
+| 61 | [tagpy](https://tracker.debian.org/tagpy) | 2013.1-7 |
+| 62 | [tinydb](https://tracker.debian.org/tinydb) | 3.15.2-2 |
+| 63 | [vim-autopep8](https://tracker.debian.org/vim-autopep8) | 1.2.0-2 |
+| 64 | [webpy](https://tracker.debian.org/webpy) | 1:0.61-1 |
 </details>
