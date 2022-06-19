@@ -16,38 +16,34 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 27
+Total packages: 23
 <details>
-<summary><b>1..27</b></summary>
+<summary><b>1..23</b></summary>
 
 
 | # | Package | Version |
 | --- | --- | --- |
 | 1 | [django-pipeline](https://tracker.debian.org/django-pipeline) | 1.6.14-3 |
 | 2 | [flask-script](https://tracker.debian.org/flask-script) | 2.0.6-2 |
-| 3 | [python-colour](https://tracker.debian.org/python-colour) | 0.1.5-2 |
-| 4 | [python-hpilo](https://tracker.debian.org/python-hpilo) | 4.3-3 |
-| 5 | [python-ldap](https://tracker.debian.org/python-ldap) | 3.2.0-4 |
-| 6 | [python-mailer](https://tracker.debian.org/python-mailer) | 0.8.1-4 |
-| 7 | [python-mastodon](https://tracker.debian.org/python-mastodon) | 1.5.1-1 |
-| 8 | [python-model-mommy](https://tracker.debian.org/python-model-mommy) | 1.6.0-2 |
-| 9 | [python-pathtools](https://tracker.debian.org/python-pathtools) | 0.1.2-4 |
-| 10 | [python-pem](https://tracker.debian.org/python-pem) | 19.1.0-1 |
-| 11 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
-| 12 | [python-phonenumbers](https://tracker.debian.org/python-phonenumbers) | 8.12.1-1 |
-| 13 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
-| 14 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
-| 15 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
-| 16 | [python-schedutils](https://tracker.debian.org/python-schedutils) | 0.6-2.1 |
-| 17 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
-| 18 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
-| 19 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
-| 20 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
-| 21 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
-| 22 | [python-testing.mysqld](https://tracker.debian.org/python-testing.mysqld) | 1.4.0-4 |
-| 23 | [python-testing.postgresql](https://tracker.debian.org/python-testing.postgresql) | 1.3.0-2 |
-| 24 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
-| 25 | [python-wheezy.template](https://tracker.debian.org/python-wheezy.template) | 0.1.167-2 |
-| 26 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 27 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 3 | [python-mailer](https://tracker.debian.org/python-mailer) | 0.8.1-4 |
+| 4 | [python-mastodon](https://tracker.debian.org/python-mastodon) | 1.5.1-1 |
+| 5 | [python-model-mommy](https://tracker.debian.org/python-model-mommy) | 1.6.0-2 |
+| 6 | [python-pathtools](https://tracker.debian.org/python-pathtools) | 0.1.2-4 |
+| 7 | [python-pem](https://tracker.debian.org/python-pem) | 19.1.0-1 |
+| 8 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
+| 9 | [python-phonenumbers](https://tracker.debian.org/python-phonenumbers) | 8.12.1-1 |
+| 10 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
+| 11 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
+| 12 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
+| 13 | [python-schedutils](https://tracker.debian.org/python-schedutils) | 0.6-2.1 |
+| 14 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
+| 15 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
+| 16 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
+| 17 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
+| 18 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
+| 19 | [python-testing.mysqld](https://tracker.debian.org/python-testing.mysqld) | 1.4.0-4 |
+| 20 | [python-testing.postgresql](https://tracker.debian.org/python-testing.postgresql) | 1.3.0-2 |
+| 21 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
+| 22 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 23 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
 </details>
