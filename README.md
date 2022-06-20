@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 20
+Total packages: 10
 <details>
-<summary><b>1..20</b></summary>
+<summary><b>1..10</b></summary>
 
 
 | # | Package | Version |
@@ -29,18 +29,8 @@ Total packages: 20
 | 4 | [python-mastodon](https://tracker.debian.org/python-mastodon) | 1.5.1-1 |
 | 5 | [python-model-mommy](https://tracker.debian.org/python-model-mommy) | 1.6.0-2 |
 | 6 | [python-pathtools](https://tracker.debian.org/python-pathtools) | 0.1.2-4 |
-| 7 | [python-pem](https://tracker.debian.org/python-pem) | 19.1.0-1 |
-| 8 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
-| 9 | [python-phonenumbers](https://tracker.debian.org/python-phonenumbers) | 8.12.1-1 |
-| 10 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
-| 11 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
-| 12 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
-| 13 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
-| 14 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
-| 15 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
-| 16 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
-| 17 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
-| 18 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
-| 19 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 20 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 7 | [python-persistent](https://tracker.debian.org/python-persistent) | 4.6.4-0.2 |
+| 8 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
+| 9 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 10 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
 </details>
