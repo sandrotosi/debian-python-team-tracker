@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 21
+Total packages: 20
 <details>
-<summary><b>1..21</b></summary>
+<summary><b>1..20</b></summary>
 
 
 | # | Package | Version |
@@ -35,13 +35,12 @@ Total packages: 21
 | 10 | [python-plaster](https://tracker.debian.org/python-plaster) | 1.0-2 |
 | 11 | [python-plaster-pastedeploy](https://tracker.debian.org/python-plaster-pastedeploy) | 0.5-3 |
 | 12 | [python-repoze.sphinx.autointerface](https://tracker.debian.org/python-repoze.sphinx.autointerface) | 0.8-0.2 |
-| 13 | [python-schedutils](https://tracker.debian.org/python-schedutils) | 0.6-2.1 |
-| 14 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
-| 15 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
-| 16 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
-| 17 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
-| 18 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
-| 19 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
-| 20 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 21 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 13 | [python-service-identity](https://tracker.debian.org/python-service-identity) | 18.1.0-6 |
+| 14 | [python-simpy](https://tracker.debian.org/python-simpy) | 2.3.1+dfsg-2 |
+| 15 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
+| 16 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
+| 17 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
+| 18 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
+| 19 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 20 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
 </details>
