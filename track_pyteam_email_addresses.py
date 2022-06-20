@@ -25,7 +25,8 @@ SELECT maintainer_email, source, version
   FROM sources
  WHERE release = 'sid'
    AND maintainer_email LIKE '%python%'
-   AND maintainer_email NOT IN ('gst-python1.0@packages.debian.org', 'pkg-python-debian-maint@lists.alioth.debian.org');
+   AND maintainer_email NOT IN ('gst-python1.0@packages.debian.org', 'pkg-python-debian-maint@lists.alioth.debian.org')
+   AND source != 'sphinx';
 """
 UPLDR_QUERY = """
 SELECT uploaders, source, version
