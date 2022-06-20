@@ -16,9 +16,9 @@ This repo is to track that effort, here's the results:
 # Packages with outdated email address
 
 ## `python-modules-team@lists.alioth.debian.org`
-Total packages: 23
+Total packages: 21
 <details>
-<summary><b>1..23</b></summary>
+<summary><b>1..21</b></summary>
 
 
 | # | Package | Version |
@@ -41,9 +41,7 @@ Total packages: 23
 | 16 | [python-slimmer](https://tracker.debian.org/python-slimmer) | 0.1.30-8 |
 | 17 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
 | 18 | [python-tempita](https://tracker.debian.org/python-tempita) | 0.5.2-6 |
-| 19 | [python-testing.mysqld](https://tracker.debian.org/python-testing.mysqld) | 1.4.0-4 |
-| 20 | [python-testing.postgresql](https://tracker.debian.org/python-testing.postgresql) | 1.3.0-2 |
-| 21 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
-| 22 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
-| 23 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
+| 19 | [python-urlobject](https://tracker.debian.org/python-urlobject) | 2.4.3-3 |
+| 20 | [quark-sphinx-theme](https://tracker.debian.org/quark-sphinx-theme) | 0.5.1-2 |
+| 21 | [sphinx](https://tracker.debian.org/sphinx) | 1.8.5-5 |
 </details>
