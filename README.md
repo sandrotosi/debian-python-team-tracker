@@ -14,15 +14,3 @@ This repo is to track that effort, here's the results:
 
 
 # Packages with outdated email address
-
-## `python-modules-team@lists.alioth.debian.org`
-Total packages: 2
-<details>
-<summary><b>1..2</b></summary>
-
-
-| # | Package | Version |
-| --- | --- | --- |
-| 1 | [flask-script](https://tracker.debian.org/flask-script) | 2.0.6-2 |
-| 2 | [python-suntime](https://tracker.debian.org/python-suntime) | 1.2.5-2 |
-</details>
